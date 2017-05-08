@@ -1,7 +1,18 @@
+body {
+  box-sizing: border-box;
+}
 #nav-list {
   background-color: #B3FFB3	
 }
 
 #chicken {
   background-color: #E5E4E2;
+}
+
+#chicken_header {
+  background-color: blue;
+  color: white;
+  border: black 3px solid;
+  width: 126px;
+  margin: 5px auto;
 }
