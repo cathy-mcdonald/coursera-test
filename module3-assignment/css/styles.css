@@ -4,4 +4,11 @@
 
 #chicken {
   background-color: #E5E4E2;
+  padding: 10px 15px 1px 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#chicken h2 {
+  margin-top: 0;
 }
